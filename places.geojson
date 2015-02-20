@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Manila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98556518554688,
+          14.582918931434403
+        ]
+      }
+    }
+  ]
+}
