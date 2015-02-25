@@ -4,16 +4,16 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Manila"
+        "city": "manila",
+        "import date": "08/20/2015",
+        "expire data": "08/20/2015",
+        "url": "http://dotc.gov.ph/index.php/2014-09-02-05-02-46/transit-data"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98556518554688,
-          14.582918931434403
+          13.359375,
+          51.17934297928927
         ]
       }
     }
