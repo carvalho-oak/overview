@@ -1,6 +1,1 @@
-# Overview
-
-| City  | Import date | Expire data | Source
-|:-:|:-:|:-:|---|---|
-| Manila  |02/20/2015 | 08/20/2015 | http://dotc.gov.ph/index.php/2014-09-02-05-02-46/transit-data  |
-
+| City  | Import date | Expire date | Source|:-:|:-:|:-:|---|---||portland_usa|2015-02-25|2015-08-25|https://developers.google.com/transit/gtfs/examples/sample-feed.zip||portland_usa|2015-02-25|2015-08-25|https://developers.google.com/transit/gtfs/examples/sample-feed.zip|
