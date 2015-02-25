@@ -13,24 +13,8 @@
       "properties": {
         "url": "http://dotc.gov.ph/index.php/2014-09-02-05-02-46/transit-data",
         "city": "manila",
-        "import date": "08/20/2015",
-        "expire data": "08/20/2015"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          85.78125,
-          58.07787626787517
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "url": "http: //dotc.gov.ph/index.php/2014-09-02-05-02-46/transit-data",
-        "city": "manila",
-        "expire data": "08/20/2015",
-        "import date": "08/20/2015"
+        "import_date": "08/20/2015",
+        "expire_data": "08/20/2015"
       }
     }
   ]
