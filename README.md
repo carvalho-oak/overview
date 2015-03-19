@@ -1,1 +1,28 @@
-<h1>GTFS Collection<h1/><p>Please create an issue and include the URL to the GTFS data if you would like to add a new city. The format should be the following: <br>```city=berlin_germany,url=https://developers.google.com/transit/gtfs/examples/sample-feed.zip```<p/><h1>Current Status<h1/><table><tr><th>City</th><th>Import date</th><th>Expire date</th><th>Polygon</th><th>Source</th></tr><tr><td><a href="https://github.com/gtfs-collection/manila_phillipines">manila_phillipines</a></td><td>2015-03-03</td><td>2015-09-03</td><td><a href="https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson">Polygon</a></td><td>https://github.com/gtfs-collection/manila_phillipines/archive/master.zip</td><tr><td><a href="https://github.com/gtfs-collection/sao-paulo_brazil">sao-paulo_brazil</a></td><td>2015-03-10</td><td>2015-09-03</td><td><a href="https://github.com/gtfs-collection/overview/blob/master/polygons/sao-paulo_brazil.geojson">Polygon</a></td><td>https://github.com/gtfs-collection/sao-paulo_brazil/archive/master.zip</td><tr><td><a href="https://github.com/gtfs-collection/santiago_chile">santiago_chile</a></td><td>2015-03-04</td><td>2015-09-04</td><td><a href="https://github.com/gtfs-collection/overview/blob/master/polygons/santiago_chile.geojson">Polygon</a></td><td>https://github.com/gtfs-collection/santiago_chile/archive/master.zip</td></table>
+<h1>GTFS Collection<h1/><p>Please create an issue and include the URL to the GTFS data if you would like to add a new city. The format should be the following: <br>```city=berlin_germany,url=https://developers.google.com/transit/gtfs/examples/sample-feed.zip```<p/><h1>Current Status<h1/><table>
+            <tr>
+                <th>City</th>
+                <th>Import date</th>
+                <th>Expire date</th>
+                <th>Source URL</th>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/gtfs-collection/' + properties['city'] + '">' + properties['city'] + '</a>(<a href="https://github.com/gtfs-collection/' + properties['city'] + '/archive/master.zip'">ZIP</a><a href="https://github.com/gtfs-collection/overview/blob/master/polygons/' + properties['city'] + '.geojson'">Polygon</a>)</td>
+        https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson
+                <td>' + properties['import_date'] + '</td>
+                <td>' + properties['expire_date'] + '</td>
+                <td>' + properties['url'] + '</td>
+            <tr/>
+            <tr>
+                <td><a href="https://github.com/gtfs-collection/' + properties['city'] + '">' + properties['city'] + '</a>(<a href="https://github.com/gtfs-collection/' + properties['city'] + '/archive/master.zip'">ZIP</a><a href="https://github.com/gtfs-collection/overview/blob/master/polygons/' + properties['city'] + '.geojson'">Polygon</a>)</td>
+        https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson
+                <td>' + properties['import_date'] + '</td>
+                <td>' + properties['expire_date'] + '</td>
+                <td>' + properties['url'] + '</td>
+            <tr/>
+            <tr>
+                <td><a href="https://github.com/gtfs-collection/' + properties['city'] + '">' + properties['city'] + '</a>(<a href="https://github.com/gtfs-collection/' + properties['city'] + '/archive/master.zip'">ZIP</a><a href="https://github.com/gtfs-collection/overview/blob/master/polygons/' + properties['city'] + '.geojson'">Polygon</a>)</td>
+        https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson
+                <td>' + properties['import_date'] + '</td>
+                <td>' + properties['expire_date'] + '</td>
+                <td>' + properties['url'] + '</td>
+            <tr/></table>
