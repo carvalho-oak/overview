@@ -10,19 +10,19 @@
                 </tr>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/manila_phillipines>manila_phillipines</a>(
-                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip>ZIP</a>
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson>Polygon</a>)
-                        </td>
+                        <a href='https://github.com/gtfs-collection/manila_phillipines>manila_phillipines'</a>(
+                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>ZIP</a>
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>Polygon</a>)
+                    </td>
                     <td>2015-03-03</td>
                     <td>2015-09-03</td>
                     <td>https://github.com/gtfs-collection/manila_phillipines/archive/master.zip</td>
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/sao-paulo_brazil>sao-paulo_brazil</a>(
-                        <a href='https://github.com/gtfs-collection/sao-paulo_brazil/archive/master.zip>ZIP</a>
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/sao-paulo_brazil.geojson>Polygon</a>)
+                        <a href='https://github.com/gtfs-collection/sao-paulo_brazil'>sao-paulo_brazil</a>(
+                        <a href='https://github.com/gtfs-collection/sao-paulo_brazil/archive/master.zip'>ZIP</a>
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/sao-paulo_brazil.geojson'>Polygon</a>)
                         </td>
                     <td>2015-03-10</td>
                     <td>2015-09-03</td>
@@ -30,9 +30,9 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/santiago_chile>santiago_chile</a>(
-                        <a href='https://github.com/gtfs-collection/santiago_chile/archive/master.zip>ZIP</a>
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/santiago_chile.geojson>Polygon</a>)
+                        <a href='https://github.com/gtfs-collection/santiago_chile'>santiago_chile</a>(
+                        <a href='https://github.com/gtfs-collection/santiago_chile/archive/master.zip'>ZIP</a>
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/santiago_chile.geojson'>Polygon</a>)
                         </td>
                     <td>2015-03-04</td>
                     <td>2015-09-04</td>
