@@ -10,10 +10,10 @@
                 </tr>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/manila_phillipines>manila_phillipines'</a>(
+                        <a href='https://github.com/gtfs-collection/manila_phillipines'>manila_phillipines</a>(
                         <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>ZIP</a>
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>Polygon</a>)
-                    </td>
+                        </td>
                     <td>2015-03-03</td>
                     <td>2015-09-03</td>
                     <td>https://github.com/gtfs-collection/manila_phillipines/archive/master.zip</td>
