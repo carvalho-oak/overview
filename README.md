@@ -35,6 +35,6 @@
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/santiago_chile.geojson'>polygon</a>)
                         </td>
                     <td>2015-03-04</td>
-                    <td>2015-09-04</td>
-                    <td>https://github.com/gtfs-collection/santiago_chile/archive/master.zip</td>
+                    <td>2015-06-01</td>
+                    <td>http://datos.gob.cl/datasets/ver/1587</td>
                 <tr/></table>
