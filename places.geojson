@@ -42,9 +42,9 @@
             },
             "properties": {
                 "city": "santiago_chile",
-                "expire_date": "2015-09-04",
+                "expire_date": "2015-06-01",
                 "import_date": "2015-03-04",
-                "url": "https://github.com/gtfs-collection/santiago_chile/archive/master.zip"
+                "url": "http://datos.gob.cl/datasets/ver/1587"
             },
             "type": "Feature"
         }
