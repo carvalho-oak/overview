@@ -37,4 +37,14 @@
                     <td>2015-03-04</td>
                     <td>2015-06-01</td>
                     <td>http://datos.gob.cl/datasets/ver/1587</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/seattle_washington'>seattle_washington</a><br>(
+                        <a href='https://github.com/gtfs-collection/seattle_washington/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/seattle_washington.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-04-10</td>
+                    <td>2015-06-06</td>
+                    <td>http://gtfs.s3.amazonaws.com/sound-transit_20150319_0956.zip</td>
                 <tr/></table>
