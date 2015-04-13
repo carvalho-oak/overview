@@ -16,7 +16,7 @@
                         </td>
                     <td>2015-03-03</td>
                     <td>2015-09-03</td>
-                    <td>https://github.com/gtfs-collection/manila_phillipines/archive/master.zip</td>
+                    <td>http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip</td>
                 <tr/>
                 <tr>
                     <td>
