@@ -10,16 +10,6 @@
                 </tr>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/manila_phillipines'>manila_phillipines</a><br>(
-                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-03-03</td>
-                    <td>2015-09-03</td>
-                    <td>http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/sao-paulo_brazil'>sao-paulo_brazil</a><br>(
                         <a href='https://github.com/gtfs-collection/sao-paulo_brazil/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/sao-paulo_brazil.geojson'>polygon</a> )
@@ -40,11 +30,11 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/seattle_washington'>seattle_washington</a><br>(
-                        <a href='https://github.com/gtfs-collection/seattle_washington/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/seattle_washington.geojson'>polygon</a> )
+                        <a href='https://github.com/gtfs-collection/manila_phillipines'>manila_phillipines</a><br>(
+                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>polygon</a> )
                         </td>
-                    <td>2015-04-10</td>
-                    <td>2015-06-06</td>
-                    <td>http://gtfs.s3.amazonaws.com/sound-transit_20150319_0956.zip</td>
+                    <td>2015-04-16</td>
+                    <td>2015-05-29</td>
+                    <td>http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip</td>
                 <tr/></table>
