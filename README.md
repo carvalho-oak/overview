@@ -40,16 +40,6 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/seattle_washington'>seattle_washington</a><br>(
-                        <a href='https://github.com/gtfs-collection/seattle_washington/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/seattle_washington.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-04-16</td>
-                    <td>2015-05-30</td>
-                    <td>-</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/porto-alegre_brazil'>porto-alegre_brazil</a><br>(
                         <a href='https://github.com/gtfs-collection/porto-alegre_brazil/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/porto-alegre_brazil.geojson'>polygon</a> )
