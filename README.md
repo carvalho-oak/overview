@@ -30,16 +30,6 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/manila_phillipines'>manila_phillipines</a><br>(
-                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-04-16</td>
-                    <td>2015-05-29</td>
-                    <td>http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/porto-alegre_brazil'>porto-alegre_brazil</a><br>(
                         <a href='https://github.com/gtfs-collection/porto-alegre_brazil/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/porto-alegre_brazil.geojson'>polygon</a> )
@@ -47,4 +37,24 @@
                     <td>2015-04-16</td>
                     <td>2014-11-07</td>
                     <td>http://datapoa.com.br/storage/f/2014-08-22T14%3A37%3A23.272Z/outputfiles.zip</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/manila_phillipines'>manila_phillipines</a><br>(
+                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-04-17</td>
+                    <td>2015-05-29</td>
+                    <td>http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/seattle_washington'>seattle_washington</a><br>(
+                        <a href='https://github.com/gtfs-collection/seattle_washington/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/seattle_washington.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-04-17</td>
+                    <td>2015-06-06</td>
+                    <td>http://gtfs.s3.amazonaws.com/sound-transit_20150319_0956.zip</td>
                 <tr/></table>
