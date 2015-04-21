@@ -57,14 +57,4 @@
                     <td>2015-04-17</td>
                     <td>2015-06-06</td>
                     <td>http://gtfs.s3.amazonaws.com/sound-transit_20150319_0956.zip</td>
-                <tr/>
-                <tr>
-                    <td>
-                        <a href='https://github.com/gtfs-collection/hamburg_germany'>hamburg_germany</a><br>(
-                        <a href='https://github.com/gtfs-collection/hamburg_germany/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/hamburg_germany.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-04-21</td>
-                    <td>2014-12-31</td>
-                    <td>http://gtfs.s3.amazonaws.com/hkx-hamburg-koeln-express_20140514_0938.zip</td>
                 <tr/></table>
