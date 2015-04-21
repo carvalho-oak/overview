@@ -57,4 +57,14 @@
                     <td>2015-04-17</td>
                     <td>2015-06-06</td>
                     <td>http://gtfs.s3.amazonaws.com/sound-transit_20150319_0956.zip</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/austin_texas'>austin_texas</a><br>(
+                        <a href='https://github.com/gtfs-collection/austin_texas/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/austin_texas.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-04-21</td>
+                    <td>2014-11-02</td>
+                    <td>https://data.texas.gov/download/r4v4-vz24/application/zip</td>
                 <tr/></table>
