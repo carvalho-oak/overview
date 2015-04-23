@@ -1,1 +1,85 @@
-{"type": "FeatureCollection", "features": [{"geometry": {"type": "Point", "coordinates": [-46.63330939999, -23.5505199]}, "type": "Feature", "properties": {"url": "https://github.com/gtfs-collection/sao-paulo_brazil/archive/master.zip", "city": "sao-paulo_brazil", "import_date": "2015-03-10", "expire_date": "2015-09-03"}}, {"geometry": {"type": "Point", "coordinates": [-70.641997, -33.46911999]}, "type": "Feature", "properties": {"url": "http://datos.gob.cl/datasets/ver/1587", "city": "santiago_chile", "import_date": "2015-03-04", "expire_date": "2015-06-01"}}, {"geometry": {"type": "Point", "coordinates": [-51.2176584, -30.0346471]}, "type": "Feature", "properties": {"url": "http://datapoa.com.br/storage/f/2014-08-22T14%3A37%3A23.272Z/outputfiles.zip", "city": "porto-alegre_brazil", "import_date": "2015-04-16", "expire_date": "2014-11-07"}}, {"geometry": {"type": "Point", "coordinates": [120.9842195, 14.5995124]}, "type": "Feature", "properties": {"url": "http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip", "city": "manila_phillipines", "import_date": "2015-04-17", "expire_date": "2015-05-29"}}, {"geometry": {"type": "Point", "coordinates": [-122.3320708, 47.6062095]}, "type": "Feature", "properties": {"url": "http://gtfs.s3.amazonaws.com/sound-transit_20150319_0956.zip", "city": "seattle_washington", "import_date": "2015-04-17", "expire_date": "2015-06-06"}}, {"geometry": {"type": "Point", "coordinates": [-99.133208, 19.4326077]}, "type": "Feature", "properties": {"url": "https://s3.amazonaws.com/setravi/df_gtfs.zip", "city": "mexico-city_mexico", "import_date": "2015-04-23", "expire_date": "2015-07-21"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63330939999,
+          -23.5505199
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "url": "https://github.com/gtfs-collection/sao-paulo_brazil/archive/master.zip",
+        "city": "sao-paulo_brazil",
+        "import_date": "2015-03-10",
+        "expire_date": "2015-09-03"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.641997,
+          -33.46911999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "url": "http://datos.gob.cl/datasets/ver/1587",
+        "city": "santiago_chile",
+        "import_date": "2015-03-04",
+        "expire_date": "2015-06-01"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2176584,
+          -30.0346471
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "url": "http://datapoa.com.br/storage/f/2014-08-22T14%3A37%3A23.272Z/outputfiles.zip",
+        "city": "porto-alegre_brazil",
+        "import_date": "2015-04-16",
+        "expire_date": "2014-11-07"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9842195,
+          14.5995124
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "url": "http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip",
+        "city": "manila_phillipines",
+        "import_date": "2015-04-17",
+        "expire_date": "2015-05-29"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3320708,
+          47.6062095
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "url": "http://gtfs.s3.amazonaws.com/sound-transit_20150319_0956.zip",
+        "city": "seattle_washington",
+        "import_date": "2015-04-17",
+        "expire_date": "2015-06-06"
+      }
+    }
+  ]
+}
