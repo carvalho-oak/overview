@@ -57,14 +57,4 @@
                     <td>2015-04-17</td>
                     <td>2015-06-06</td>
                     <td>http://gtfs.s3.amazonaws.com/sound-transit_20150319_0956.zip</td>
-                <tr/>
-                <tr>
-                    <td>
-                        <a href='https://github.com/gtfs-collection/mexico-city_mexico'>mexico-city_mexico</a><br>(
-                        <a href='https://github.com/gtfs-collection/mexico-city_mexico/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/mexico-city_mexico.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-04-23</td>
-                    <td>2015-07-21</td>
-                    <td>https://s3.amazonaws.com/setravi/df_gtfs.zip</td>
                 <tr/></table>
