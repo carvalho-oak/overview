@@ -40,16 +40,6 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/manila_phillipines'>manila_phillipines</a><br>(
-                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-04-17</td>
-                    <td>2015-05-29</td>
-                    <td>http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/seattle_washington'>seattle_washington</a><br>(
                         <a href='https://github.com/gtfs-collection/seattle_washington/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/seattle_washington.geojson'>polygon</a> )
@@ -67,4 +57,14 @@
                     <td>2015-04-23</td>
                     <td>2015-07-21</td>
                     <td>https://s3.amazonaws.com/setravi/df_gtfs.zip</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/manila_phillipines'>manila_phillipines</a><br>(
+                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-04-28</td>
+                    <td>2015-10-28</td>
+                    <td>-</td>
                 <tr/></table>
