@@ -67,4 +67,14 @@
                     <td>2015-04-28</td>
                     <td>2015-10-28</td>
                     <td>https://github.com/sakayph/gtfs</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/belo-horizonte_brazil'>belo-horizonte_brazil</a><br>(
+                        <a href='https://github.com/gtfs-collection/belo-horizonte_brazil/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/belo-horizonte_brazil.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-05-06</td>
+                    <td>2015-01-01</td>
+                    <td>http://servicosbhtrans.pbh.gov.br/transitfiles/gtfs_bhtransit.zip</td>
                 <tr/></table>
