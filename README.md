@@ -87,4 +87,14 @@
                     <td>2015-03-18</td>
                     <td>2015-09-03</td>
                     <td>https://github.com/avilaton/gtfscba-data</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/buenos-aires_argentina'>buenos-aires_argentina</a><br>(
+                        <a href='https://github.com/gtfs-collection/buenos-aires_argentina/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/buenos-aires_argentina.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-05-18</td>
+                    <td>2015-11-18</td>
+                    <td>https://recursos-data.buenosaires.gob.ar/ckan2/subte-gtfs/subte-gtfs.zip</td>
                 <tr/></table>
