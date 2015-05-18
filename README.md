@@ -77,4 +77,14 @@
                     <td>2015-05-06</td>
                     <td>2015-01-01</td>
                     <td>http://servicosbhtrans.pbh.gov.br/transitfiles/gtfs_bhtransit.zip</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/cordoba_argentina'>cordoba_argentina</a><br>(
+                        <a href='https://github.com/gtfs-collection/cordoba_argentina/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/cordoba_argentina.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-03-18</td>
+                    <td>2015-09-03</td>
+                    <td>https://github.com/avilaton/gtfscba-data</td>
                 <tr/></table>
