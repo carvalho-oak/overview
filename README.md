@@ -107,4 +107,14 @@
                     <td>2015-06-21</td>
                     <td>2015-06-30</td>
                     <td>http://cedeusdata.geosteiniger.cl/documents/152/download</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/concepcion_chile'>concepcion_chile</a><br>(
+                        <a href='https://github.com/gtfs-collection/concepcion_chile/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/concepcion_chile.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-06-21</td>
+                    <td>2015-12-21</td>
+                    <td>http://cedeusdata.geosteiniger.cl/documents/151/download</td>
                 <tr/></table>
