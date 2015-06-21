@@ -97,4 +97,14 @@
                     <td>2015-06-21</td>
                     <td>2015-12-21</td>
                     <td>-</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/region-x_chile'>region-x_chile</a><br>(
+                        <a href='https://github.com/gtfs-collection/region-x_chile/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/region-x_chile.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-06-21</td>
+                    <td>2015-06-30</td>
+                    <td>http://cedeusdata.geosteiniger.cl/documents/152/download</td>
                 <tr/></table>
