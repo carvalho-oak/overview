@@ -40,16 +40,6 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/manila_phillipines'>manila_phillipines</a><br>(
-                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-04-28</td>
-                    <td>2015-10-28</td>
-                    <td>https://github.com/sakayph/gtfs</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/belo-horizonte_brazil'>belo-horizonte_brazil</a><br>(
                         <a href='https://github.com/gtfs-collection/belo-horizonte_brazil/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/belo-horizonte_brazil.geojson'>polygon</a> )
@@ -97,4 +87,24 @@
                     <td>2015-06-17</td>
                     <td>2015-07-31</td>
                     <td>http://datos.gob.cl/datasets/ver/1587</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/manila_phillipines'>manila_phillipines</a><br>(
+                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-06-21</td>
+                    <td>2015-12-21</td>
+                    <td>http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/temuco_chile'>temuco_chile</a><br>(
+                        <a href='https://github.com/gtfs-collection/temuco_chile/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/temuco_chile.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-06-21</td>
+                    <td>2015-12-21</td>
+                    <td>http://cedeusdata.geosteiniger.cl/documents/150/download</td>
                 <tr/></table>
