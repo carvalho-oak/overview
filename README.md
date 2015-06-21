@@ -20,16 +20,6 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/seattle_washington'>seattle_washington</a><br>(
-                        <a href='https://github.com/gtfs-collection/seattle_washington/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/seattle_washington.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-04-17</td>
-                    <td>2015-06-06</td>
-                    <td>http://gtfs.s3.amazonaws.com/sound-transit_20150319_0956.zip</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/mexico-city_mexico'>mexico-city_mexico</a><br>(
                         <a href='https://github.com/gtfs-collection/mexico-city_mexico/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/mexico-city_mexico.geojson'>polygon</a> )
@@ -97,4 +87,14 @@
                     <td>2015-06-21</td>
                     <td>2015-12-21</td>
                     <td>http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/seattle_washington'>seattle_washington</a><br>(
+                        <a href='https://github.com/gtfs-collection/seattle_washington/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/seattle_washington.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-06-21</td>
+                    <td>2015-12-21</td>
+                    <td>-</td>
                 <tr/></table>
