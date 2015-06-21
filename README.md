@@ -117,4 +117,14 @@
                     <td>2015-06-21</td>
                     <td>2015-12-21</td>
                     <td>http://cedeusdata.geosteiniger.cl/documents/151/download</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/valparaiso_chile'>valparaiso_chile</a><br>(
+                        <a href='https://github.com/gtfs-collection/valparaiso_chile/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/valparaiso_chile.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-06-21</td>
+                    <td>2015-12-21</td>
+                    <td>http://datos.gob.cl/recursos/download/3908</td>
                 <tr/></table>
