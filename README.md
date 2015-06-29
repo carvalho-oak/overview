@@ -100,16 +100,6 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/region-x_chile'>region-x_chile</a><br>(
-                        <a href='https://github.com/gtfs-collection/region-x_chile/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/region-x_chile.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-06-21</td>
-                    <td>2015-06-30</td>
-                    <td>http://cedeusdata.geosteiniger.cl/documents/152/download</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/concepcion_chile'>concepcion_chile</a><br>(
                         <a href='https://github.com/gtfs-collection/concepcion_chile/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/concepcion_chile.geojson'>polygon</a> )
@@ -127,4 +117,14 @@
                     <td>2015-06-21</td>
                     <td>2015-12-21</td>
                     <td>http://datos.gob.cl/recursos/download/3908</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/region-x_chile'>region-x_chile</a><br>(
+                        <a href='https://github.com/gtfs-collection/region-x_chile/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/region-x_chile.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-06-29</td>
+                    <td>2015-08-30</td>
+                    <td>-</td>
                 <tr/></table>
