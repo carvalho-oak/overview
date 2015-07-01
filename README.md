@@ -20,16 +20,6 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/mexico-city_mexico'>mexico-city_mexico</a><br>(
-                        <a href='https://github.com/gtfs-collection/mexico-city_mexico/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/mexico-city_mexico.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-04-23</td>
-                    <td>2015-07-21</td>
-                    <td>https://s3.amazonaws.com/setravi/df_gtfs.zip</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/cordoba_argentina'>cordoba_argentina</a><br>(
                         <a href='https://github.com/gtfs-collection/cordoba_argentina/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/cordoba_argentina.geojson'>polygon</a> )
@@ -126,5 +116,15 @@
                         </td>
                     <td>2015-06-29</td>
                     <td>2015-08-30</td>
+                    <td>-</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/mexico-city_mexico'>mexico-city_mexico</a><br>(
+                        <a href='https://github.com/gtfs-collection/mexico-city_mexico/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/mexico-city_mexico.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-07-01</td>
+                    <td>2015-07-21</td>
                     <td>-</td>
                 <tr/></table>
