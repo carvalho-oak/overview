@@ -50,16 +50,6 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/santiago_chile'>santiago_chile</a><br>(
-                        <a href='https://github.com/gtfs-collection/santiago_chile/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/santiago_chile.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-06-17</td>
-                    <td>2015-07-31</td>
-                    <td>http://datos.gob.cl/datasets/ver/1587</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/temuco_chile'>temuco_chile</a><br>(
                         <a href='https://github.com/gtfs-collection/temuco_chile/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/temuco_chile.geojson'>polygon</a> )
@@ -126,5 +116,15 @@
                         </td>
                     <td>2015-07-01</td>
                     <td>2015-07-21</td>
+                    <td>-</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/santiago_chile'>santiago_chile</a><br>(
+                        <a href='https://github.com/gtfs-collection/santiago_chile/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/santiago_chile.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-07-13</td>
+                    <td>2015-07-31</td>
                     <td>-</td>
                 <tr/></table>
