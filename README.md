@@ -60,16 +60,6 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/manila_phillipines'>manila_phillipines</a><br>(
-                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-06-21</td>
-                    <td>2015-12-21</td>
-                    <td>http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/seattle_washington'>seattle_washington</a><br>(
                         <a href='https://github.com/gtfs-collection/seattle_washington/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/seattle_washington.geojson'>polygon</a> )
@@ -126,5 +116,25 @@
                         </td>
                     <td>2015-07-15</td>
                     <td>2015-08-21</td>
+                    <td>-</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/manila_phillipines'>manila_phillipines</a><br>(
+                        <a href='https://github.com/gtfs-collection/manila_phillipines/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/manila_phillipines.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-07-15</td>
+                    <td>2016-01-15</td>
+                    <td>http://www.dotc.gov.ph/images/Open_Data/gtfs_884416.zip</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/brussels_belgium'>brussels_belgium</a><br>(
+                        <a href='https://github.com/gtfs-collection/brussels_belgium/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/brussels_belgium.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-07-15</td>
+                    <td>2015-07-16</td>
                     <td>-</td>
                 <tr/></table>
