@@ -110,21 +110,21 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/mexico-city_mexico'>mexico-city_mexico</a><br>(
-                        <a href='https://github.com/gtfs-collection/mexico-city_mexico/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/mexico-city_mexico.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-07-01</td>
-                    <td>2015-07-21</td>
-                    <td>-</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/santiago_chile'>santiago_chile</a><br>(
                         <a href='https://github.com/gtfs-collection/santiago_chile/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/santiago_chile.geojson'>polygon</a> )
                         </td>
                     <td>2015-07-13</td>
                     <td>2015-07-31</td>
+                    <td>-</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/mexico-city_mexico'>mexico-city_mexico</a><br>(
+                        <a href='https://github.com/gtfs-collection/mexico-city_mexico/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/mexico-city_mexico.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-07-15</td>
+                    <td>2015-08-21</td>
                     <td>-</td>
                 <tr/></table>
