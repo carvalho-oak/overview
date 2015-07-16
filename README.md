@@ -140,8 +140,8 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/belo_horizonte-brazil'>belo_horizonte-brazil</a><br>(
-                        <a href='https://github.com/gtfs-collection/belo_horizonte-brazil/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/belo-horizonte_brazil'>belo_horizonte-brazil</a><br>(
+                        <a href='https://github.com/gtfs-collection/belo-horizonte_brazil/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/belo_horizonte-brazil.geojson'>polygon</a> )
                         </td>
                     <td>2015-07-16</td>
