@@ -40,16 +40,6 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/porto-alegre_brazil'>porto-alegre_brazil</a><br>(
-                        <a href='https://github.com/gtfs-collection/porto-alegre_brazil/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/porto-alegre_brazil.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-05-27</td>
-                    <td>2015-11-07</td>
-                    <td>-</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/temuco_chile'>temuco_chile</a><br>(
                         <a href='https://github.com/gtfs-collection/temuco_chile/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/temuco_chile.geojson'>polygon</a> )
@@ -136,5 +126,15 @@
                         </td>
                     <td>2015-07-15</td>
                     <td>2015-07-16</td>
+                    <td>-</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/porto-alegre_brazil'>porto-alegre_brazil</a><br>(
+                        <a href='https://github.com/gtfs-collection/porto-alegre_brazil/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/porto-alegre_brazil.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-07-16</td>
+                    <td>2015-09-11</td>
                     <td>-</td>
                 <tr/></table>
