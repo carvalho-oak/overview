@@ -70,16 +70,6 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/valparaiso_chile'>valparaiso_chile</a><br>(
-                        <a href='https://github.com/gtfs-collection/valparaiso_chile/archive/master.zip'>zip</a> |
-                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/valparaiso_chile.geojson'>polygon</a> )
-                        </td>
-                    <td>2015-06-21</td>
-                    <td>2015-12-21</td>
-                    <td>http://datos.gob.cl/recursos/download/3908</td>
-                <tr/>
-                <tr>
-                    <td>
                         <a href='https://github.com/gtfs-collection/region-x_chile'>region-x_chile</a><br>(
                         <a href='https://github.com/gtfs-collection/region-x_chile/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/region-x_chile.geojson'>polygon</a> )
@@ -140,11 +130,21 @@
                 <tr/>
                 <tr>
                     <td>
-                        <a href='https://github.com/gtfs-collection/belo-horizonte_brazil'>belo_horizonte-brazil</a><br>(
-                        <a href='https://github.com/gtfs-collection/belo-horizonte_brazil/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/belo_horizonte-brazil'>belo_horizonte-brazil</a><br>(
+                        <a href='https://github.com/gtfs-collection/belo_horizonte-brazil/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/belo_horizonte-brazil.geojson'>polygon</a> )
                         </td>
                     <td>2015-07-16</td>
                     <td>2015-01-01</td>
                     <td>http://servicosbhtrans.pbh.gov.br/transitfiles/gtfs_bhtransit.zip</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/valparaiso_chile'>valparaiso_chile</a><br>(
+                        <a href='https://github.com/gtfs-collection/valparaiso_chile/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/valparaiso_chile.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-07-17</td>
+                    <td>2016-01-17</td>
+                    <td>-</td>
                 <tr/></table>
