@@ -144,7 +144,7 @@
                         <a href='https://github.com/gtfs-collection/concepcion_chile/archive/master.zip'>zip</a> |
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/concepcion_chile.geojson'>polygon</a> )
                         </td>
-                    <td>2015-07-17</td>
-                    <td>2016-01-17</td>
+                    <td>2015-07-20</td>
+                    <td>2016-01-20</td>
                     <td>-</td>
                 <tr/></table>
