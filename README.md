@@ -147,4 +147,14 @@
                     <td>2015-07-20</td>
                     <td>2016-01-20</td>
                     <td>-</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/belo-horizonte_brazil'>belo-horizonte_brazil</a><br>(
+                        <a href='https://github.com/gtfs-collection/belo-horizonte_brazil/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/belo-horizonte_brazil.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-07-27</td>
+                    <td>2015-01-01</td>
+                    <td>-</td>
                 <tr/></table>
