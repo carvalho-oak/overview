@@ -157,4 +157,14 @@
                     <td>2015-07-27</td>
                     <td>2015-01-01</td>
                     <td>-</td>
+                <tr/>
+                <tr>
+                    <td>
+                        <a href='https://github.com/gtfs-collection/cape-town_south-africa'>cape-town_south-africa</a><br>(
+                        <a href='https://github.com/gtfs-collection/cape-town_south-africa/archive/master.zip'>zip</a> |
+                        <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/cape-town_south-africa.geojson'>polygon</a> )
+                        </td>
+                    <td>2015-07-29</td>
+                    <td>2013-10-31</td>
+                    <td>-</td>
                 <tr/></table>
