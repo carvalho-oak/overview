@@ -165,6 +165,6 @@
                         <a href='https://github.com/gtfs-collection/overview/blob/master/polygons/cape-town_south-africa.geojson'>polygon</a> )
                         </td>
                     <td>2015-07-29</td>
-                    <td>2013-10-31</td>
+                    <td>2016-01-29</td>
                     <td>-</td>
                 <tr/></table>
